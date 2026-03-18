@@ -132,7 +132,7 @@ Kalinga Institute of Industrial Technology, Bhubaneswar, India
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arghyadeep-deb&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="GitHub trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=arghyadeep-deb&theme=algolia&no-frame=true&margin-w=10&margin-h=10" alt="GitHub trophies" />
 </p>
 
 ---
