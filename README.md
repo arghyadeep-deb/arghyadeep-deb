@@ -5,10 +5,18 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Machine+Learning+%7C+Deep+Learning+%7C+NLP;Python+Developer+%7C+FastAPI+Builder;Building+End-to-End+ML+Pipelines;Open+to+ML%2FAI%2FNLP+Internships+🚀" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="mailto:arghyadeepdeb020703@gmail.com"><img src="https://img.shields.io/badge/arghyadeepdeb020703%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/arghyadeep-deb"><img src="https://img.shields.io/badge/LinkedIn-Arghyadeep%20Deb-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/oddly.deep"><img src="https://img.shields.io/badge/-@oddly.deep-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+## 🌐 Socials:
+
+<p>
+  <a href="https://instagram.com/oddly.deep" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://linkedin.com/in/arghyadeep-deb" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:arghyadeepdeb020703@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
