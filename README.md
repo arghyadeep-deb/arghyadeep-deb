@@ -6,15 +6,11 @@
 </p>
 
 <p align="center">
-  <a href="mailto:arghyadeepdeb020703@gmail.com">
-    <img src="https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/arghyadeep-deb">
-    <img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/oddly.deep">
-    <img src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
+  <a href="mailto:arghyadeepdeb020703@gmail.com"><img src="https://img.shields.io/badge/📧%20Email-arghyadeepdeb020703%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/arghyadeep-deb"><img src="https://img.shields.io/badge/💼%20LinkedIn-Arghyadeep%20Deb-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+</p>
+<p align="center">
+  <a href="https://instagram.com/oddly.deep"><img src="https://img.shields.io/badge/📸%20Instagram-@oddly.deep-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---
