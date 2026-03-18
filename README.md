@@ -7,7 +7,6 @@
 
 <p align="center">
   <a href="mailto:arghyadeepdeb020703@gmail.com"><img src="https://img.shields.io/badge/Email-arghyadeepdeb020703%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="tel:+919090119755"><img src="https://img.shields.io/badge/Phone-%2B91%2090901%2019755-0A66C2?style=for-the-badge&logo=phonepe&logoColor=white"/></a>
   <a href="https://linkedin.com/in/arghyadeep-deb"><img src="https://img.shields.io/badge/LinkedIn-Arghyadeep%20Deb-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
@@ -24,8 +23,7 @@ Actively seeking **Machine Learning / AI / NLP Internship** opportunities.
 ## 🎓 Education
 
 **B.Tech in Computer Science (2023 – 2027)**  
-Kalinga Institute of Industrial Technology, Bhubaneswar, India  
-- **CGPA:** 8.51  
+Kalinga Institute of Industrial Technology, Bhubaneswar, India    
 - **Coursework:** OOP, Operating Systems, DSA, DBMS, Computer Networks, Software Engineering
 
 ---
