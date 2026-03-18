@@ -128,25 +128,21 @@ Kalinga Institute of Industrial Technology, Bhubaneswar, India
 
 ---
 
+
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arghyadeep-deb&theme=tokyonight&no-frame=true&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=arghyadeep-deb&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="GitHub trophies" />
 </p>
 
 ---
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/arghyadeep-deb/arghyadeep-deb/output/github-contribution-grid-snake.svg)
-
----
-
-## 👀 Profile Views
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arghyadeep-deb&label=Profile%20Views&color=blueviolet&style=flat"/>
+  <img src="https://raw.githubusercontent.com/arghyadeep-deb/arghyadeep-deb/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
+
 
 ---
 
