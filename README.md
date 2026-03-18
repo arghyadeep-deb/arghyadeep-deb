@@ -25,7 +25,7 @@
 
 Computer Science student with strong hands-on experience in **Machine Learning, Deep Learning, and Natural Language Processing**.  
 Experienced in building **end-to-end ML pipelines**, training models using **PyTorch/TensorFlow**, and deploying applications via **FastAPI + Streamlit**.  
-Actively seeking **Machine Learning / AI / NLP Internship** opportunities.
+Actively seeking **Machine Learning / AI / NLP Job** opportunities.
 
 ---
 
