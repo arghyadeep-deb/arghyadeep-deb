@@ -27,9 +27,7 @@ Actively seeking **Machine Learning / AI / NLP Internship** opportunities.
 
 **B.Tech in Computer Science (2023 – 2027)**  
 Kalinga Institute of Industrial Technology, Bhubaneswar, India
-
-- **CGPA:** 8.51  
-- **Relevant Coursework:** OOP, Operating Systems, DSA, DBMS, Computer Networks, Software Engineering
+**Relevant Coursework:** OOP, Operating Systems, DSA, DBMS, Computer Networks, Software Engineering
 
 ---
 
