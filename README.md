@@ -7,13 +7,13 @@
 
 <p align="center">
   <a href="mailto:arghyadeepdeb020703@gmail.com">
-    <img src="https://img.shields.io/badge/Email-arghyadeepdeb020703%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/arghyadeep-deb">
-    <img src="https://img.shields.io/badge/LinkedIn-Arghyadeep%20Deb-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/oddly.deep">
-    <img src="https://img.shields.io/badge/Instagram-oddly.deep-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
