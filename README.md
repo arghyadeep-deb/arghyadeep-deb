@@ -154,12 +154,4 @@ Kalinga Institute of Industrial Technology, Bhubaneswar, India
 
 ---
 
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arghyadeep-deb&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile views" />
-</p>
-
----
-
 <p align="center"><b>Code • Build • Learn • Repeat</b></p>
