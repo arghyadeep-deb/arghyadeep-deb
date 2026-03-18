@@ -2,20 +2,27 @@
 <h3 align="center">Aspiring Machine Learning & AI Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Machine+Learning+%7C+Deep+Learning+%7C+NLP;FastAPI+%7C+Streamlit+%7C+PyTorch;Building+End-to-End+ML+Pipelines;Open+to+ML%2FAI%2FNLP+Internships+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Machine+Learning+%7C+Deep+Learning+%7C+NLP;Python+Developer+%7C+FastAPI+Builder;Building+End-to-End+ML+Pipelines;Open+to+ML%2FAI%2FNLP+Internships+🚀" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="mailto:arghyadeepdeb020703@gmail.com"><img src="https://img.shields.io/badge/Email-arghyadeepdeb020703%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/arghyadeep-deb"><img src="https://img.shields.io/badge/LinkedIn-Arghyadeep%20Deb-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:arghyadeepdeb020703@gmail.com">
+    <img src="https://img.shields.io/badge/Email-arghyadeepdeb020703%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/arghyadeep-deb">
+    <img src="https://img.shields.io/badge/LinkedIn-Arghyadeep%20Deb-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/oddly.deep">
+    <img src="https://img.shields.io/badge/Instagram-oddly.deep-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </p>
 
 ---
 
 ## 👨‍💻 Professional Summary
 
-Computer Science student with hands-on experience in **Machine Learning, Deep Learning, and NLP**.  
-Experienced in building **end-to-end ML pipelines**, training models with **PyTorch/TensorFlow**, and deploying apps via **FastAPI + Streamlit**.  
+Computer Science student with strong hands-on experience in **Machine Learning, Deep Learning, and Natural Language Processing**.  
+Experienced in building **end-to-end ML pipelines**, training models using **PyTorch/TensorFlow**, and deploying applications via **FastAPI + Streamlit**.  
 Actively seeking **Machine Learning / AI / NLP Internship** opportunities.
 
 ---
@@ -23,78 +30,70 @@ Actively seeking **Machine Learning / AI / NLP Internship** opportunities.
 ## 🎓 Education
 
 **B.Tech in Computer Science (2023 – 2027)**  
-Kalinga Institute of Industrial Technology, Bhubaneswar, India    
-**Coursework:** OOP, Operating Systems, DSA, DBMS, Computer Networks, Software Engineering
+Kalinga Institute of Industrial Technology, Bhubaneswar, India
+
+- **CGPA:** 8.51  
+- **Relevant Coursework:** OOP, Operating Systems, DSA, DBMS, Computer Networks, Software Engineering
 
 ---
 
-## 🧠 Skills & Tools
+## 🧠 Skills & Tech Stack
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,mysql" alt="Languages" />
 </p>
 
-### ML / AI / NLP
+### AI / ML / NLP
 <p>
-  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-111827?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
-  <img src="https://img.shields.io/badge/NLP-0f172a?style=for-the-badge&logo=bookstack&logoColor=22d3ee"/>
-  <img src="https://img.shields.io/badge/GenAI-1f2937?style=for-the-badge&logo=openai&logoColor=10a37f"/>
-  <img src="https://img.shields.io/badge/RAG-334155?style=for-the-badge&logo=semanticweb&logoColor=38bdf8"/>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" alt="PyTorch TensorFlow" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/NLP-0F172A?style=for-the-badge&logo=bookstack&logoColor=22d3ee" alt="NLP" />
+  <img src="https://img.shields.io/badge/GenAI-111827?style=for-the-badge&logo=openai&logoColor=white" alt="GenAI" />
+  <img src="https://img.shields.io/badge/RAG-1E293B?style=for-the-badge&logo=semanticweb&logoColor=38bdf8" alt="RAG" />
 </p>
 
-### Frameworks / Libraries / Platforms
+### Frameworks / Tools / Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,fastapi,docker,git,github,streamlit" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangSmith-111827?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangGraph-0B1020?style=for-the-badge&logo=graphql&logoColor=e10098"/>
-  <img src="https://img.shields.io/badge/MCP-1e293b?style=for-the-badge&logo=protocolsio&logoColor=38bdf8"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://skillicons.dev/icons?i=fastapi,docker,git,github,streamlit" alt="Tools" />
+  <img src="https://img.shields.io/badge/LangChain-111827?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangSmith-111827?style=for-the-badge&logo=databricks&logoColor=white" alt="LangSmith" />
+  <img src="https://img.shields.io/badge/LangGraph-0B1020?style=for-the-badge&logo=graphql&logoColor=e10098" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/MCP-1E293B?style=for-the-badge&logo=protocolsio&logoColor=38bdf8" alt="MCP" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
 </p>
 
 ---
 
 ## 💼 Experience
 
-### **AI Intern — State Bank of India (SBILD)**
+### AI Intern — State Bank of India (SBILD)
 **May 2025 – Jun 2025**
-- Worked on AI-driven customer profiling and retail lending insights
-- Focused on housing and personal loan product intelligence
+- Worked on AI-driven customer profiling and retail lending insights.
+- Focused on housing and personal loan product analysis.
 
-### **ML Intern & Trainee — Intrainz**
+### ML Intern & Trainee — Intrainz
 **Jul 2025 – Sep 2025**
-- Performed EDA, feature engineering, and regression modeling
-- Applied PCA and built machine learning pipelines
+- Conducted EDA, feature engineering, and regression modeling.
+- Applied PCA and built practical ML pipelines.
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 ### 🎬 Hybrid Movie Recommender System (ML + NLP)
-- Built a hybrid recommender combining **content-based NLP** (TF-IDF, cosine similarity) with collaborative filtering
-- Exposed model inference using **FastAPI REST APIs**
+- Built a hybrid recommendation engine combining **content-based NLP** (TF-IDF, cosine similarity) and collaborative filtering.
+- Exposed inference using **FastAPI REST APIs**.
 
 ### ❓ Duplicate Question Pairs Detection (NLP + ML)
-- Developed an end-to-end NLP system for semantic duplicate detection
-- Used TF-IDF feature engineering with **SVM** and **XGBoost**
-- Deployed with **FastAPI backend + Streamlit frontend**
+- Developed an end-to-end NLP system for semantic duplicate detection.
+- Used TF-IDF feature engineering with supervised models (**SVM, XGBoost**).
+- Deployed using **FastAPI backend + Streamlit UI**.
 
 ### ✍️ Next Word Prediction (Deep Learning + NLP)
-- Built a **BiLSTM** language model with attention and POS embeddings
-- Served predictions via **FastAPI + Streamlit**
-
----
-
-## 🧩 Personal Skills
-
-- Strong analytical thinking and structured problem-solving
-- Effective team collaboration and clear communication
-- Quick learner with adaptability and time management
-- **Languages:** English, Hindi, Bengali, Assamese
+- Built a **BiLSTM-based** language model with attention and POS embeddings.
+- Served predictions using **FastAPI** with a **Streamlit frontend**.
 
 ---
 
@@ -108,31 +107,41 @@ Kalinga Institute of Industrial Technology, Bhubaneswar, India
 
 ---
 
+## 🌍 Personal Skills
+
+- Strong analytical thinking and structured problem-solving
+- Effective teamwork and communication
+- Quick learner with adaptability and time management
+- **Languages:** English, Hindi, Bengali, Assamese
+
+---
+
+## 🎯 Current Focus
+
+- AI & ML systems for real-world applications
+- NLP and retrieval-based GenAI systems
+- FastAPI backend engineering
+- Dockerized deployment workflows
+- Advanced SQL for analytics and performance optimization
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arghyadeep-deb&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=arghyadeep-deb&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=arghyadeep-deb&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=arghyadeep-deb&theme=tokyonight&hide_border=true" alt="GitHub streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arghyadeep-deb&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arghyadeep-deb&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
 ---
 
-## 📈 Activity Graph
+## 📈 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arghyadeep-deb&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-
-## 🏆 Highlights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arghyadeep-deb&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arghyadeep-deb&theme=tokyo-night&hide_border=true" alt="Activity graph" />
 </p>
 
 ---
@@ -140,7 +149,15 @@ Kalinga Institute of Industrial Technology, Bhubaneswar, India
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/arghyadeep-deb/arghyadeep-deb/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/arghyadeep-deb/arghyadeep-deb/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arghyadeep-deb&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile views" />
 </p>
 
 ---
