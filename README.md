@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Machine Learning & AI Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Machine+Learning+%7C+Deep+Learning+%7C+NLP;Python+Developer+%7C+FastAPI+Builder;Building+End-to-End+ML+Pipelines;Open+to+ML%2FAI%2FNLP+Internships+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Machine+Learning+%7C+Deep+Learning+%7C+NLP;Python+Developer+%7C+FastAPI+Builder;Building+End-to-End+ML+Pipelines;Open+to+ML%2FAI%2FNLP+Jobs+🚀" alt="Typing SVG" />
 </p>
 
 ## 🌐 Socials:
