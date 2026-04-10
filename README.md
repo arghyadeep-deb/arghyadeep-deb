@@ -68,7 +68,7 @@ Kalinga Institute of Industrial Technology, Bhubaneswar, India
 
 ## 💼 Experience
 
-### AI Intern — State Bank of India (SBILD)
+### Intern — State Bank of India (SBILD)
 **May 2025 – Jun 2025**
 - Worked on AI-driven customer profiling and retail lending insights.
 - Focused on housing and personal loan product analysis.
@@ -80,32 +80,6 @@ Kalinga Institute of Industrial Technology, Bhubaneswar, India
 
 ---
 
-## 🚀 Featured Projects
-
-### 🎬 Hybrid Movie Recommender System (ML + NLP)
-- Built a hybrid recommendation engine combining **content-based NLP** (TF-IDF, cosine similarity) and collaborative filtering.
-- Exposed inference using **FastAPI REST APIs**.
-
-### ❓ Duplicate Question Pairs Detection (NLP + ML)
-- Developed an end-to-end NLP system for semantic duplicate detection.
-- Used TF-IDF feature engineering with supervised models (**SVM, XGBoost**).
-- Deployed using **FastAPI backend + Streamlit UI**.
-
-### ✍️ Next Word Prediction (Deep Learning + NLP)
-- Built a **BiLSTM-based** language model with attention and POS embeddings.
-- Served predictions using **FastAPI** with a **Streamlit frontend**.
-
----
-
-## 📜 Certifications
-
-- Introduction to Deep Learning Neural Networks with Keras — **IBM (2026)**
-- Machine Learning — **Intrainz (2025)**
-- AI Foundations & Generative AI — **Oracle (2025)**
-- Data Analytics — **LearnTube (CareerNinja) (2024)**
-- Java Development (30 Days Coding) — **2023**
-
----
 
 ## 🌍 Personal Skills
 
