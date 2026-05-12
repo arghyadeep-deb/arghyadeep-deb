@@ -86,7 +86,6 @@ Kalinga Institute of Industrial Technology, Bhubaneswar, India
 - Strong analytical thinking and structured problem-solving
 - Effective teamwork and communication
 - Quick learner with adaptability and time management
-- **Languages:** English, Hindi, Bengali, Assamese
 
 ---
 
