@@ -80,7 +80,6 @@ Kalinga Institute of Industrial Technology, Bhubaneswar, India
 
 ---
 
-
 ## 🌍 Personal Skills
 
 - Strong analytical thinking and structured problem-solving
@@ -96,26 +95,6 @@ Kalinga Institute of Industrial Technology, Bhubaneswar, India
 - FastAPI backend engineering
 - Dockerized deployment workflows
 - Advanced SQL for analytics and performance optimization
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arghyadeep-deb&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=arghyadeep-deb&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arghyadeep-deb&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
----
-
-## 📈 GitHub Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arghyadeep-deb&theme=tokyo-night&hide_border=true" alt="Activity graph" />
-</p>
 
 ---
 
