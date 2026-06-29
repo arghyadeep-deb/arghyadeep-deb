@@ -119,12 +119,4 @@ Kalinga Institute of Industrial Technology, Bhubaneswar, India
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/arghyadeep-deb/arghyadeep-deb/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
-
 <p align="center"><b>Code • Build • Learn • Repeat</b></p>
