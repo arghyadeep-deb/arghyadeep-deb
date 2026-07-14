@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Arghyadeep Deb</h1>
 <h3 align="center">Machine Learning & AI Engineer</h3>
 
+
+[![My GitFut card](https://gitfut.com/arghyadeep-deb.png)](https://gitfut.com/arghyadeep-deb)
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Machine+Learning+%7C+Deep+Learning+%7C+NLP;Python+Developer+%7C+FastAPI+Builder;Building+End-to-End+ML+Pipelines;Open+to+ML%2FAI%2FNLP+Jobs+🚀" alt="Typing SVG" />
 </p>
